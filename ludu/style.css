@@ -1,0 +1,29 @@
+body{
+    background: linear-gradient(to right ,hsl(2, 100%, 62%),#5deb0c);
+}
+.container{
+    margin: auto;
+    text-align: center;
+    width: 70%;
+
+}
+h1{
+    margin: 30px;
+    font-size: 3rem;
+    color:#0c74eb ;
+}
+.dicec{
+    height:20%;
+    width: 20%;
+   
+    margin: 0px 50px;
+    text-align: center;
+    display: inline-block;
+
+}
+.images1{
+    width: 19hv;
+}
+h2{
+    color: rgb(230, 17, 134);
+}
